@@ -14,4 +14,7 @@ switch(num) {
     case 1: {
         console.log("True");
     }
+    default: {
+        console.log("The number is not defined as 0 or 1");
+    }
 }

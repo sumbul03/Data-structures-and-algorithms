@@ -4,7 +4,7 @@ However, if it’s greater than 10, print ‘greater than 10’.
 Also, deal with the case in which it’s equal to 10 with an appropriate message.
 */
 
-let num=9;
+let num = 9;
 
 
 switch (true) {
